@@ -1,0 +1,40 @@
+.article-list .article-div h1 {
+	color: #232323;
+	text-shadow: 0 1px 0 #FFF;
+	font-weight: bold;
+	font-size: 16px;
+}
+.article-list .article-div .value {
+	color: #333;
+	font-size: 13px;
+}
+
+.detail-div {
+	margin: 10px;
+	padding: 10px 0;
+}
+
+.article-detail .detail-div h2 {
+	color: #232323;
+	text-shadow: 0 1px 0 #FFF;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.article-detail .detail-div .value {
+	color: #333;
+	font-size: 13px;
+	margin-top: 15px;
+}
+
+.article-detail .detail-div .value img {
+	width: 95% !important;
+	height: auto !important;
+	margin: 15px auto !important;
+}
+
+.article-detail .detail-div .value a {
+	padding: 6px;
+	color: #333;
+}
+
